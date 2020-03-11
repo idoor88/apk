@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>icoin.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>80FE33EBFBFE6A51E1E5B77CBF5EB8F5566A1F33</string>
+				<key>dateExpires</key>
+				<string>9/26/20</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>88P7HZBFT9.com.ternio.terno.wallet</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>88P7HZBFT9</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>88P7HZBFT9.com.ternio.terno.wallet</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>TERNWallet.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>ed0a664c-cf44-42ed-8f76-cd3ffd9affd4</string>
+				<key>name</key>
+				<string>Ternio Tern PP Dist</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>88P7HZBFT9</string>
+				<key>name</key>
+				<string>Ternio, LLC ( U.S. )</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
